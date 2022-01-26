@@ -19,3 +19,4 @@ Copy the terminal output of your SSH key in this box and hit "Add SSH key"
 
 ![image](https://user-images.githubusercontent.com/30131536/151199289-b896dd22-0338-4db7-85f8-ba742e67a2c5.png)
 
+The push script just pushes to both the UG remote repository and the Github repository you've set up. This will ONLY work on the UG machines and while I can't think of anything right now, if they diverge enough it could lead to some errors. Be careful.
