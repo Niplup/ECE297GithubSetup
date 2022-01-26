@@ -2,7 +2,7 @@
 echo "I take no blame if this destroys your repo, make backups"
 cd ~/ece297/work/mapper
 echo "This is a basic shell script which sets up your Github repo"
-echo "Enter your email please: "
+echo "Enter your Github account email please: "
 read emailname
 echo "Save in default location and set a strong passphrase"
 ssh-keygen -t rsa -b 4096 -C "$emailname"
