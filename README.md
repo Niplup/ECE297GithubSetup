@@ -1,7 +1,9 @@
 # ECE297GithubSetup
 Two simple shell scripts to help you setup a Github repo for the ECE297 project. I take zero blame if this destroys your repository, I've barely tested it and these are only designed to work on the UG machines.
 
-For the step where you have to add the SSH key to Github follow the steps below. Click on settings.
+For the step where you have to add the SSH key to Github follow the steps below.
+
+Click on settings.
 
 ![image](https://user-images.githubusercontent.com/30131536/151198634-09666684-5cd9-4535-8b74-a5c867072acb.png)
 
